@@ -3024,8 +3024,8 @@
   bottom: 44px;
 }
 .cbp-l-grid-fullScreen {
-  /* visibility: hidden;
-  overflow: hidden; */
+  /* visibility: hidden; */
+  overflow: hidden;
 }
 .cbp-l-grid-fullScreen .cbp-item {
  width: 100%;
