@@ -3027,10 +3027,10 @@
   /* visibility: hidden;
   overflow: hidden; */
 }
-/* .cbp-l-grid-fullScreen .cbp-item {
+.cbp-l-grid-fullScreen .cbp-item {
   width: 350px;
   height: 263px;
-} */
+}
 .cbp-l-grid-masonry {
   visibility: hidden;
   overflow: hidden;
