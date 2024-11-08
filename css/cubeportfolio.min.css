@@ -3028,8 +3028,7 @@
   overflow: hidden; */
 }
 .cbp-l-grid-fullScreen .cbp-item {
-  width: 350px;
-  height: 263px;
+ width: 100%;
 }
 .cbp-l-grid-masonry {
   visibility: hidden;
