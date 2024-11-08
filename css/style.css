@@ -568,13 +568,13 @@ p {
     right: 0;
     z-index: 1;   
 }
-.tp-banner li:after {
+/* .tp-banner li:after {
     content: "";
     position: relative;
     top: 0;
     left: 0;
     right: 0;
-}  
+}   */
 .tp-banner-video li:after {
     content: "";
     position: absolute;
